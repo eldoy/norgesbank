@@ -1,7 +1,7 @@
 {
   "name": "norgesbank",
   "version": "0.1.0",
-  "description": "Norges Bank API",
+  "description": "Norges Bank API Currency Conversion",
   "main": "index.js",
   "scripts": {
     "test": "nodemon spec/index.js"
